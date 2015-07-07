@@ -1,0 +1,8 @@
+{
+	"name" : "FlappyCoconutReloaded",
+	"description" : "Remake of FlappyCoconut",
+	"lflags" : ["-L/lib/"],
+	"dependencies" : {
+		"dsfml": "~master"
+	}
+}
